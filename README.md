@@ -1,6 +1,6 @@
 <h1 align="center"> Calculadora JavaScript </h1>
 
-Uma simples calculadora IMC :D
+Calculadora feita em JavaScript usando a função eval().
 
 ## Acesse o projeto
 
